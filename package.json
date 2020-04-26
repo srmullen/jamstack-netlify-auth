@@ -4,6 +4,7 @@
   "description": "",
   "main": "gatsby-config.js",
   "scripts": {
+    "build": "gatsby build",
     "dev": "gatsby develop",
     "netdev": "netlify dev"
   },
